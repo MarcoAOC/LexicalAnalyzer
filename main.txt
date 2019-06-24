@@ -1,13 +1,18 @@
-1
-2
-//3
-4
-4 < 131
-2
-/*
-341 > 3131
-12412
+let var
+let var2
+/* teste
+teste
+teste
+let var
+while
 */
-/*21
-312312312314
-123124123*/
+// teste 
+while (var < 6)
+    if (var == 6)
+        var2 = 1;
+    
+    else 
+        var2 = var;
+    
+    var = var + 1;
+
