@@ -6,9 +6,9 @@ teste
 let var
 while
 */
-// teste 
+// teste ss
 while (var < 6)
-    if (var == 6)
+    if (var == 6)   
         var2 = 1;
     
     else 
